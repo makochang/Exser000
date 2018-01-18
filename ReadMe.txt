@@ -1,3 +1,4 @@
-���K�p�f�����|�W�g��
+練習用デモリポジトリ
 
-nkc-ohishi���P�s�ǉ����܂����B
+nkc-ohishiが１行追加しました。
+makochangが１行追加しました。
